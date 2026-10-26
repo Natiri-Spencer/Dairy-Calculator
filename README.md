@@ -69,17 +69,17 @@ python dairy_calculator.py
 ```text
 Kiambu Dairy Co-op Payment Calculator
 -------------------------------------
-Current buying price: KES 58.00 per litre
+Current buying price: KES 60.00 per litre
 
 Farmer name: John Kamau
 Litres supplied today: 125
 
 Payment Summary
 ----------------
-Farmer : John Kamau
-Litres : 125.00
-Price  : KES 58.00/litre
-Total  : KES 7,250.00
+Farmer : John Kimani
+Litres : 20.00
+Price  : KES 60.00/litre
+Total  : KES 1200.00
 ```
 
 ---

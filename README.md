@@ -32,7 +32,7 @@ python --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/dairy-payment-calculator.git
+git clone https://github.com/Natiri-Spencer/dairy-payment-calculator.git
 cd dairy-payment-calculator
 ```
 
